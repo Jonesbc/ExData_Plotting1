@@ -1,6 +1,6 @@
 ##Coursera:Exploratory Data Analysis
 ##project 1
-##Plot3
+##Plot 3
 
 ##read the data into R.
 Data <- read.table("./household_power_consumption.txt", header = TRUE, sep = ";", 
